@@ -10,8 +10,7 @@ Welcome to my GitHub! I’m a passionate developer who loves turning ideas into 
 - 💻 I build responsive and scalable web applications using **React.js**, **Next.js**, and **Tailwind CSS**.  
 - 🌱 Currently exploring **Next.js 14**, **Redux Toolkit**, and **MERN stack** to strengthen my full-stack skills.  
 - 🧠 I believe in writing clean, maintainable, and reusable code that speaks for itself.  
-- 💬 I enjoy solving UI puzzles, optimizing performance, and crafting pixel-perfect designs.  
-- ⚡ Fun Fact: I’m a single-parent child driven by passion, purpose, and persistence.  
+- 💬 I enjoy solving UI puzzles, optimizing performance, and crafting pixel-perfect designs.
 
 ---
 
