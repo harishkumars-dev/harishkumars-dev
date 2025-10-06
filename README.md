@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Harishkumar Senthilnathan  
 
-🚀 **Frontend Developer | React.js Enthusiast | Aspiring MERN Stack Engineer**  
+🚀 **Frontend Developer | React.js Enthusiast | MERN Stack Engineer**  
 
-Welcome to my GitHub! I’m a passionate developer who loves turning ideas into interactive and user-friendly web applications. With over **2 years of experience** building dynamic and responsive frontends, I specialize in **React.js, JavaScript, and modern UI/UX practices**.  
+Welcome to my GitHub! I’m a passionate developer who loves turning ideas into interactive and user-friendly web applications. With over **3+ years of experience** building dynamic and responsive frontends, I specialize in **React.js, JavaScript, and modern UI/UX practices**.  
 
 ---
 
@@ -40,22 +40,22 @@ Welcome to my GitHub! I’m a passionate developer who loves turning ideas into 
 
 ## 📚 Featured Projects  
 
-### 🎮 [Tic-Tac-Toe Game (React + Vite)](https://github.com/harishkumar/tic-tac-toe)  
+### 🎮 [Tic-Tac-Toe Game (React + Vite)](https://venerable-profiterole-c13936.netlify.app/)  
 A modern, responsive Tic-Tac-Toe game built using React and Vite.  
 > Key Concepts: Multiple State Values, Lifting State Up, Derived State, Nested Lists, Array/Object States.  
 
-### 🌐 [CustomerLabs React Test](https://harishkumar-customerlabs.netlify.app)  
+### 🌐 [CustomerLabs React Test](https://github.com/Harishkumars-dev)  
 A React app that sends data to a live endpoint using `webhook.site`.  
 > Hosted on Netlify with dynamic data handling and custom UI.  
 
-### 🧩 [CRUD App (Next.js 14 + MongoDB)](https://github.com/harishkumar/nextjs-crud)  
+### 🧩 [CRUD App (Next.js 14 + MongoDB)](https://github.com/Harishkumars-dev)  
 A full-stack CRUD application demonstrating server-side rendering and API integration.  
 > Technologies: Next.js 14, MongoDB, Express.js, Tailwind CSS.  
 
 ---
 
 ## 🏆 Achievements  
-- 💼 Accepted Offer: **UI Developer @ TCS (6.5 LPA)** – joining soon.  
+- 💼 Accepted Offer: **UI Developer @ TCS**.  
 - 🧠 Completed projects in **React.js**, **Next.js**, and **MERN stack** showcasing end-to-end development skills.  
 - 🗓️ Previously worked with **Truckrr Information Services**, building dynamic and scalable front-end interfaces.  
 
@@ -63,9 +63,9 @@ A full-stack CRUD application demonstrating server-side rendering and API integr
 
 ## 📫 Let's Connect!  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishkumar)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://harishkumars-dev.github.io/myportfolio/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkumars-dev/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:harishkumar.senthilnathan@gmail.com)  
 
 ---
 
